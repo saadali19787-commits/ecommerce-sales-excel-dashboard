@@ -22,5 +22,5 @@ This project analyzes e-commerce sales data to understand trends, profit, and pr
 * Seasonal trends affect sales
 
 ## Dashboard Preview
-
+https://github.com/saadali19787-commits/ecommerce-sales-excel-dashboard/blob/5b11f68c3b01cbd415b12f1548c5c5983053e58e/Screenshot%202026-05-03%20133751.png
 
